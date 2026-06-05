@@ -7,7 +7,7 @@ An ultra-compact wireless development board powered by an Ai-Thinker Ai-WB2-M1-I
 
 | Top View | Bottom View |
 | :---: | :---: |
-| ![Board Front](Images/vector06top.png) | ![Board Back](Images/vector06bottom.png) |
+| ![Board Front](Images/top.png) | ![Board Back](Images/bottom.png) |
 
 ## Features
 
@@ -27,12 +27,12 @@ An ultra-compact wireless development board powered by an Ai-Thinker Ai-WB2-M1-I
 
 | Circuit Schematic Design |
 | :---: |
-| ![Schematic Diagram](Images/sch_vector06.png) |
+| ![Schematic Diagram](Images/schematics_v-06.png) |
 
 
 | PCB Top Layer Routing | PCB Bottom Layer Routing |
 | :---: | :---: |
-| ![Top Routing](Images/top_routing.png) | ![Bottom Routing](Images/bottom_routing.png) |
+| ![Top Routing](Images/routing_top.png) | ![Bottom Routing](Images/routing_btm.png) |
 
 ## Pinout Configuration
 
