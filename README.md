@@ -62,7 +62,7 @@ The VECTOR-06 breaks out its system pins and available General Purpose I/O (GPIO
 * Pin 9: 3.3V
 * Pin 10: GND 
 
-###Some Things to keep in mind:
+### Some Things to keep in mind:
 If you are writing firmware for the board, keep in mind these hardwired hardware assignments from the schematic:
 * NeoPixel Pin: Wired to IO4 (LED_PIN_RGB).
 * Boot Button: Wired to EN (BOOT_PIN), pulled high to VCC via a 10kΩ resistor (R14), and shorts to GND when pressed.
