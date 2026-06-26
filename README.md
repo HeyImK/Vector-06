@@ -2,6 +2,7 @@
 # High-Efficiency RISC-V Wireless Development Board
 
 An ultra-compact wireless development board powered by an Ai-Thinker Ai-WB2-M1-I module with a Bouffalo Lab BL602 RISC-V SoC. It features an dedicated LiPo battery charging system with connector and an onboard WS2812B NeoPixel.
+EasyEDA Project Post and viewing link:-https://oshwlab.com/karthiknair121232/project_agshyvwx
 
 ## Pictures
 
