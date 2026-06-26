@@ -23,8 +23,8 @@ EasyEDA Project Post and viewing link:-https://oshwlab.com/karthiknair121232/pro
 ### Circuit Schematic Highlights
 * Dual-Source Power Path Switching: Implements a protective dual-diode Schottky configuration (V_REG_IN). When USB-C is plugged in, the system automatically sources power from the 5V VBUS line and disconnects the battery load, preventing dangerous back-feeding into your computer's USB port.
 * Battery Management Engine: Integrates a TP4059 lithium charging network housed in a compact SOT-23-6 package. It features a dedicated amber charging status indicator LED and an optimized PROG resistor network to safely govern current thresholds.
-* Power Regulation: An AMS1117-3.3V LDO regulator processes input voltage down to a stable system rail, stabilized by a massive 22µF reservoir capacitor at its output.
-* Advanced Logic Compatibility: The WS2812B NeoPixel is powered directly from the clean 3.3V rail rather than 5V. This scales its internal data detection thresholds downward, allowing the 3.3V RISC-V GPIO signal to reliably trigger data packets without requiring a bulky hardware logic-level shifter.
+* Power Regulation: An AMS1117-3.3V LDO regulator processes input voltage down to a stable system rail, stabilized by a 22µF capacitor at its output.
+* Advanced Logic Compatibility: The WS2812B NeoPixel is powered directly from the clean 3.3V rail rather than 5V. This scales its internal data detection thresholds downward, allowing the 3.3V GPIO signal to reliably trigger data without requiring a  logic-level shifter.
 
 | Circuit Schematic Design |
 | :---: |
